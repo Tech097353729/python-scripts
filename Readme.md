@@ -1,14 +1,6 @@
 <h1 align=center> Python Scripts </h1>
 
 
-<p align="center">
-  <a href="https://github.com/metafy-social/daily-python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/daily-python-scripts/fork"><img src="https://img.shields.io/github/forks/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/stars/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/daily-python-scripts/blob/master/LICENSE"><img src="https://img.shields.io/github/license/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-</p>
-
-
 # How to start
 
 * Well it's quite simple just thought of any Idea that can be automated
