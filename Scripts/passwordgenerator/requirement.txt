@@ -1,1 +1,1 @@
-secrets
+secrets==22.6.1
