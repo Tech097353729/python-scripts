@@ -3,9 +3,8 @@
 
 Basic Snake game implimentation in python language. which we use to play while we are children.
 
-You can Watch the demo video here.
-<a href="https://www.youtube.com/embed/OoYXL6W8lOQ" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+Click on below pic to watch demo of this project.
+<a href="https://www.youtube.com/embed/OoYXL6W8lOQ" target="_blank">Link</a>
 
 [![IMAGE ALT TEXT](https://github.com/TechnicalAmanjeet/python-scripts/blob/amanjeet-snake-game/Scripts/Snake%20Game/snake_game_demo_pic.png)](https://www.youtube.com/embed/OoYXL6W8lOQ "Demo Youtube video for this project")
 
