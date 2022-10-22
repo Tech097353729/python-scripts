@@ -16,7 +16,7 @@ def string_to_binary(text):
 method encode(image)
             - the method takes parameter image
             - takes in a secret message from the user and embeds the text in the image
-            - the technique used to do this is the called least significant bit changing
+            - the technique used to do this is the called least significant bit changin
 """
 
 
